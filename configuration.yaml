@@ -1,0 +1,5 @@
+switch: 
+    platform: tapo_p100_control 
+    ip_address: 192.168.0.81 
+    email: gordonrobson@ntlworld.com 
+    password: cragsideUQ+9
